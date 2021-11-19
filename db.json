@@ -1,6 +1,6 @@
 {
 "personajes":[
-            (
+            {
             "nombre":"Beidou",
             "lore":"Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
             "title":"Electro Support Build",
@@ -11,8 +11,8 @@
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
             "img":""
-            ),
-            (
+            },
+            {
             "nombre":"Hu Tao",
             "lore":"Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
             "title":"Pyro DPS Build",
@@ -23,8 +23,8 @@
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
             "img":""
-            ),
-            (
+            },
+            {
             "nombre":"Thoma",
             "lore":"The Kamisato Clan's housekeeper. A well-known fixer in Inazuma.",
             "title":"Pyro Support Build",
@@ -35,8 +35,8 @@
             "weapon1":"Skyward Spine",
             "weapon2":"The Catch",
             "img":""
-            ),
-            (
+            },
+            {
             "nombre":"Sayu",
             "lore":"A print-sized ninja attached to the Shiyuumatsu-Ban, who always seems to be lacking sleep.",
             "title":"Anemo Support Build",
@@ -47,8 +47,8 @@
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Sacrificial Greatsword",
             "img":""
-            ),
-            (
+            },
+            {
             "nombre":"Diona",
             "lore":"A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern.",
             "title":"Cryo Support Build",
@@ -59,8 +59,8 @@
             "weapon1":"Sacrificial Bow",
             "weapon2":"Favonius Warbow",
             "img":""
-            ),
-            (
+            },
+            {
             "nombre":"Zhongli"
             "lore":"A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
             "title":"Geo Support Build",
@@ -71,6 +71,6 @@
             "weapon1":"Staff of Homa",
             "weapon2":"Black Tassel",
             "img":""
-            )
+            }
    ]
 }
