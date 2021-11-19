@@ -1,0 +1,75 @@
+{
+"personajes":[(
+            "nombre":"Beidou",
+            "lore":"Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
+            "title":"Electro Support Build",
+            "subtitle":"Beidou's damage output spikes when perfectly timing the counterattack from her second skill, Tidecaller, after you've unlocked her 1st and 2nd passive talents. This will give you a 10 second window of increased damage from your normal and charged attacks.",
+            "nbuild":"2",
+            "art1":"Noblesse Oblige",
+            "art2":"Thundering Fury",
+            "weapon1":"Wolf's Gravestone",
+            "weapon2":"Serpent Spine",
+            "img":""
+            ),
+            (
+            "nombre":"Hu Tao",
+            "lore":"Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
+            "title":"Pyro DPS Build",
+            "subtitle":"Hu Tao excels at single target damage, especially when animation cancelling her Charged Attack and triggering Melt and Vaporize. Pairing Hu Tao with shields to keep her below 50% HP is very powerful.",
+            "nbuild":"1",
+            "art1":"Crimson Witch of Flames",
+            "art2":"",
+            "weapon1":"Staff of Homa",
+            "weapon2":"Deathmatch",
+            "img":""
+            ),
+            (
+            "nombre":"Thoma",
+            "lore":"The Kamisato Clan's housekeeper. A well-known fixer in Inazuma.",
+            "title":"Pyro Support Build",
+            "subtitle":"Thoma has very low damage ratios due to the large amount of utility in his kit, primarily focused on shields. This build empowers that utility with Energy Recharge and Health scaling.",
+            "nbuild":"1",
+            "art1":"Noblesse Oblige",
+            "art2":"",
+            "weapon1":"Skyward Spine",
+            "weapon2":"The Catch",
+            "img":""
+            ),
+            (
+            "nombre":"Sayu",
+            "lore":"A print-sized ninja attached to the Shiyuumatsu-Ban, who always seems to be lacking sleep.",
+            "title":"Anemo Support Build",
+            "subtitle":"Sayu excels at both healing and shredding enemy resistances with his area of effect attacks and the 4pc Viridescent Venerer artifact set.",
+            "nbuild":"1",
+            "art1":"Viridescent Venerer",
+            "art2":"",
+            "weapon1":"Wolf's Gravestone",
+            "weapon2":"Sacrificial Greatsword",
+            "img":""
+            ),
+            (
+            "nombre":"Diona",
+            "lore":"A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern.",
+            "title":"Cryo Support Build",
+            "subtitle":"Diona can work great as a source superconductor and extra protection for physical carries like Razor. She can also be used to set up melt reactions for Pyro carries.",
+            "nbuild":"1",
+            "art1":"Maiden Beloved",
+            "art2":"",
+            "weapon1":"Sacrificial Bow",
+            "weapon2":"Favonius Warbow",
+            "img":""
+            ),
+            (
+            "nombre":"Zhongli"
+            "lore":"A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+            "title":"Geo Support Build",
+            "subtitle":"With the addition of Tenacity of the Millelith, Zhongli's utility power has increased tremendously. By stacking HP, his shields will keep your team healthy throughout the hardest fights.",
+            "nbuild":"1",
+            "art1":"Tenacity of the Millelith",
+            "art2":"",
+            "weapon1":"Staff of Homa",
+            "weapon2":"Black Tassel",
+            "img":""
+            )
+   ]
+}
