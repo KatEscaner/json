@@ -1,18 +1,6 @@
 {
 "personajes":[
             {
-            "nombre":"",
-            "lore":"",
-            "title":"",
-            "subtitle":"",
-            "nbuild":"",
-            "art1":"",
-            "art2":"",
-            "weapon1":"",
-            "weapon2":"",
-            "img":""
-            },
-            {
             "nombre":"Albedo",
             "lore":"An alchemist based in Mondstadt, in the service of the Knights of Favonius.",
             "title":"Geo Support Build",
