@@ -37,6 +37,42 @@
             "img":""
             },
             {
+            "nombre":"Amber",
+            "lore":"Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "title":"Pyro Support Build",
+            "subtitle":"This build empowers Amber's Elemental Skill and Burst abilities.",
+            "nbuild":"1",
+            "art1":"Noblesse Oblige",
+            "art2":"",
+            "weapon1":"Skyward Harp",
+            "weapon2":"The Viridescent Hunt",
+            "img":""
+            },
+            {
+            "nombre":"Ayaka",
+            "lore":"Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Poised and graceful, noble and virtuous.",
+            "title":"Cryo DPS Build",
+            "subtitle":"Ayaka is an absolutely DPS monster. A very safe playstyle thanks to her sprint and a reliable source of Cryo from her Skill, makes her a force to be reckoned with.",
+            "nbuild":"1",
+            "art1":"Blizzard Strayer",
+            "art2":"Blackcliff Longsword",
+            "weapon1":"Mistsplitter Reforged",
+            "weapon2":"",
+            "img":""
+            },
+            {
+            "nombre":"Barbara",
+            "lore":"Every denizen of Mondstadt adores Barbara. However, she learned the word idol from a magazine.",
+            "title":"Hydro Healer Build",
+            "subtitle":"While she won't increase your team's damage output, Barbara will keep all your units alive and healthy. We empower her healing by stacking HP. When using Thrilling Tales of Dragon Slayers as her weapon, you want to switch to Barbara every 20 seconds and then to your DPS for the ATK boost.",
+            "nbuild":"1",
+            "art1":"Maiden Beloved",
+            "art2":"",
+            "weapon1":"Prototype Amber",
+            "weapon2":"Thrilling Tales of Dragon Slayers",
+            "img":""
+            },
+            {
             "nombre":"Beidou",
             "lore":"Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
             "title":"Electro Support Build",
@@ -49,6 +85,90 @@
             "img":""
             },
             {
+            "nombre":"Bennett",
+            "lore":"A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+            "title":"Pyro Support Build",
+            "subtitle":"This build focuses on empowering Bennett's burst skill by stacking Energy Recharge. Keep in mind that the bonus ATK given to his Elemental Burst skill only comes from Base ATK, not ATK%.",
+            "nbuild":"1",
+            "art1":"Noblesse Oblige",
+            "art2":"",
+            "weapon1":"Skyward Blade",
+            "weapon2":"Favonius Sword",
+            "img":""
+            },
+            {
+            "nombre":"Chongyun",
+            "lore":"A young exortcist from a family of exorcists. He does everything he can to suppress his pure positive energy.",
+            "title":"Cryo Support Build",
+            "subtitle":"Melt is one of the strongest Elemental Reactions in the game and Chongyun has a consistent method of applying the Cryo debuff with his Elemental Skill ability. This makes him a strong support character when paired with Pyro carries.",
+            "nbuild":"2",
+            "art1":"Noblesse Oblige",
+            "art2":"Blizzard Strayer",
+            "weapon1":"Skyward Pride",
+            "weapon2":"Favonius Greatsword",
+            "img":""
+            },
+            {
+            "nombre":"Diluc",
+            "lore":"The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+            "title":"Pyro DPS Build",
+            "subtitle":"This build can work without any constellations, but really shines when you have all 6. At constellation level 6, Diluc becomes an unstoppable Pyro DMG dealing machine, weaving 2 normal attacks in between every Searing Onslaught hit.",
+            "nbuild":"1",
+            "art1":"Crimson Witch of Flames",
+            "art2":"",
+            "weapon1":"Wolf's Gravestone",
+            "weapon2":"Serpent Spine",
+            "img":""
+            },
+            {
+            "nombre":"Diona",
+            "lore":"A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern.",
+            "title":"Cryo Support Build",
+            "subtitle":"Diona can work great as a source superconductor and extra protection for physical carries like Razor. She can also be used to set up melt reactions for Pyro carries.",
+            "nbuild":"1",
+            "art1":"Maiden Beloved",
+            "art2":"",
+            "weapon1":"Sacrificial Bow",
+            "weapon2":"Favonius Warbow",
+            "img":""
+            },
+            {
+            "nombre":"Eula",
+            "lore":"A rebellious descendant of the old aristocracy who is always out on the battlefield.",
+            "title":"Physical DPS Build",
+            "subtitle":"Despite the limitations of being a physical damage dealer, Eula more than makes up for it with her incredible damage. Due to her low particle generation, make sure to pick up Energy Recharge on the substats wherever possible.",
+            "nbuild":"2",
+            "art1":"Bloodstained Chivalry",
+            "art2":"Pale Flame",
+            "weapon1":"Song of Broken Pines",
+            "weapon2":"Serpent Spine",
+            "img":""
+            },
+            {
+            "nombre":"Fischl",
+            "lore":"A mysterious girl who calls herself Prinzessia der Verurteilung and travels with a night raven named Oz.",
+            "title":"Electro Support Build",
+            "subtitle":"This build empowers Fischl's Electro DMG on her skills. You could also use a full Noblesse Oblige set if you find yourself using her Elemental Burst very often. The Stringless is the preferred weapon.",
+            "nbuild":"2",
+            "art1":"Gladiator's Finale",
+            "art2":"Thundering Fury",
+            "weapon1":"Skyward Harp",
+            "weapon2":"The Stringless",
+            "img":""
+            },
+            {
+            "nombre":"Ganyu",
+            "lore":"The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+            "title":"Cryo DPS Build",
+            "subtitle":"This build focuses on empowering Ganyu's charged attack with the Wanderer's Troupe set since it amplifies both the initial hit and the AoE explosion from each shot.",
+            "nbuild":"1",
+            "art1":"Wanderer's Troupe",
+            "art2":"",
+            "weapon1":"Amos' Bow",
+            "weapon2":"Prototype Crescent",
+            "img":""
+            },
+            {
             "nombre":"Hu Tao",
             "lore":"Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
             "title":"Pyro DPS Build",
@@ -58,6 +178,90 @@
             "art2":"",
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
+            "img":"Favonius Sword"
+            },
+            {
+            "nombre":"Jean",
+            "lore":"The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius in Mondstadt.",
+            "title":"Anemo Support Build",
+            "subtitle":"This build empowers Jean's Elemental Burst ability to maximize her healing, while simultaneously reducing enemies' Elemental RES for the rest of your party.",
+            "nbuild":"1",
+            "art1":"Noblesse Oblige",
+            "art2":"",
+            "weapon1":"Skyward Blade",
+            "weapon2":"Favonius Sword",
+            "img":""
+            },
+            {
+            "nombre":"Kaeya",
+            "lore":"A thinker in the Knights of Favonius with a somewhat exotic appearance.",
+            "title":"Cryo Support Build",
+            "subtitle":"This build empowers Kaeya's Elemental Burst ability which procs multiple times, leading to very consistent elemental reactions and damage. This build becomes much more powerful with Constellation level 6.",
+            "nbuild":"1",
+            "art1":"Noblesse Oblige",
+            "art2":"",
+            "weapon1":"Skyward Blade",
+            "weapon2":"Favonius Sword",
+            "img":""
+            },
+            {
+            "nombre":"Kazuha",
+            "lore":"A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet.",
+            "title":"Anemo Support Build",
+            "subtitle":"Kazuha is a powerful anemo sub DPS that focuses on Elemental Mastery damage via Swirls.",
+            "nbuild":"1",
+            "art1":"Viridescent Venerer",
+            "art2":"",
+            "weapon1":"Freedom-Sworn",
+            "weapon2":"Iron Sting",
+            "img":""
+            },
+            {
+            "nombre":"Keqing",
+            "lore":"The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
+            "title":"Electro DPS Build",
+            "subtitle":"Keqing has the highest single target charged attack DPS in the game. This build turns Keqing into a crit machine, taking advantage of the boost to CRIT DMG she gets with every ascension level.",
+            "nbuild":"2,
+            "art1":"Gladiator's Finale",
+            "art2":"Thundering Fury",
+            "weapon1":"Primordial Jade Cutter",
+            "weapon2":"The Black Sword",
+            "img":""
+            },
+            {
+            "nombre":"Klee",
+            "lore":"An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
+            "title":"Pyro DPS Build",
+            "subtitle":"Klee's highest damage source comes from spamming her charged attack and she really comes online when paired with Bennet's ultimate, more so than Diluc.",
+            "nbuild":"1,
+            "art1":"Crimson Witch of Flames",
+            "art2":"",
+            "weapon1":"Skyward Atlas",
+            "weapon2":"Solar Pearl",
+            "img":""
+            },
+            {
+            "nombre":"Kokomi",
+            "lore":"The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+            "title":"Hydro Support Build",
+            "subtitle":"Kokomi is a solid Hydro support with powerful healing that scales with HP.",
+            "nbuild":"1,
+            "art1":"Tenacity of the Millelith",
+            "art2":"",
+            "weapon1":"Everlasting Moonglow",
+            "weapon2":"Thrilling Tales of Dragon Slayers",
+            "img":""
+            },
+            {
+            "nombre":"Lisa",
+            "lore":"The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguised graduate in the past two centuries.",
+            "title":"Electro Support Build",
+            "subtitle":"This build empower's Lisa's Elemental Burst abilty. It would be much stronger if it didn't knock enemies out of it, but it can be very powerful on bosses.",
+            "nbuild":"1,
+            "art1":"Noblesse Oblige",
+            "art2":"",
+            "weapon1":"Skyward Atlas",
+            "weapon2":"Favonius Codex",
             "img":""
             },
             {
@@ -82,18 +286,6 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Sacrificial Greatsword",
-            "img":""
-            },
-            {
-            "nombre":"Diona",
-            "lore":"A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern.",
-            "title":"Cryo Support Build",
-            "subtitle":"Diona can work great as a source superconductor and extra protection for physical carries like Razor. She can also be used to set up melt reactions for Pyro carries.",
-            "nbuild":"1",
-            "art1":"Maiden Beloved",
-            "art2":"",
-            "weapon1":"Sacrificial Bow",
-            "weapon2":"Favonius Warbow",
             "img":""
             },
             {
