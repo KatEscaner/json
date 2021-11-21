@@ -1,5 +1,38 @@
 {
 "personajes":[
+            "nombre":"",
+            "lore":"",
+            "title":"",
+            "subtitle":"",
+            "nbuild":"",
+            "art1":"",
+            "art2":"",
+            "weapon1":"",
+            "weapon2":"",
+            "img":""
+            },
+            "nombre":"Albedo",
+            "lore":"An alchemist based in Mondstadt, in the service of the Knights of Favonius.",
+            "title":"Geo Support Build",
+            "subtitle":"Thanks to his low cooldowns and high energy generation, Albedo excels at the secondary DPS role, swapping in and out as his skills become available.",
+            "nbuild":"2",
+            "art1":"Archaic Petra",
+            "art2":"Noblesse Oblige",
+            "weapon1":"Skyward Blade",
+            "weapon2":"Festering Desire",
+            "img":""
+            },
+            "nombre":"Aloy",
+            "lore":"An agile hunter from the Nora tribe. With bow in hand, she's always ready to protect the innocent.",
+            "title":"Cryo DPS Build",
+            "subtitle":"Aloy is a great Cryo Sub DPS with a strong Elemental Burst. The 0.1s delay on her coils prevent her from really shining as a Main DPS.",
+            "nbuild":"1",
+            "art1":"Blizzard Strayer",
+            "art2":"",
+            "weapon1":"Polar Star",
+            "weapon2":"The Stringless",
+            "img":""
+            },
             {
             "nombre":"Beidou",
             "lore":"Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
