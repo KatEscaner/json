@@ -12,6 +12,7 @@
             "weapon2":"",
             "img":""
             },
+            {
             "nombre":"Albedo",
             "lore":"An alchemist based in Mondstadt, in the service of the Knights of Favonius.",
             "title":"Geo Support Build",
@@ -23,6 +24,7 @@
             "weapon2":"Festering Desire",
             "img":""
             },
+            {
             "nombre":"Aloy",
             "lore":"An agile hunter from the Nora tribe. With bow in hand, she's always ready to protect the innocent.",
             "title":"Cryo DPS Build",
