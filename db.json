@@ -435,13 +435,13 @@
             {
             "nombre":"Xingqiu",
             "lore":"A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
-            "title":""
-            "subtitle":"",
-            "nbuild":"",
-            "art1":"",
+            "title":"Hydro Support Build"
+            "subtitle":"Xingqiu can be a reliable source of Hydro reactions thanks to his Elemental Burst ability, while providing useful damage reduction and healing to his party members. At Constellation level 2, he becomes incredible powerful when paired with a Hydro DPS unit.",
+            "nbuild":"1",
+            "art1":"Emblem of Severed Fate",
             "art2":"",
-            "weapon1":"",
-            "weapon2":"",
+            "weapon1":"Sacrificial Sword",
+            "weapon2":"Favonius Sword",
             "img":""
             },
             {
