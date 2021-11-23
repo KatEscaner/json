@@ -443,7 +443,43 @@
              "weapon1":"Sacrificial Sword",
              "weapon2":"Favonius Sword",
              "img":""
-                },
+            },
+            {
+            "nombre":"Xinyan",
+            "lore":"Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+            "title":"Physical DPS Build",
+            "subtitle":"Unlike Diluc who focuses on Pyro DPS, Xinyan excels when built around physical damage similar to Razor. Switch the circlet to CRIT DMG if you unlock constellation level 2.",
+            "nbuild":"1",
+            "art1":"Gladiator's Finale",
+            "art2":"",
+            "weapon1":"Wolf's Gravestone",
+            "weapon2":"Prototype Aminus",
+            "img":""
+            },
+            {
+            "nombre":"Yanfei",
+            "lore":"A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.",
+            "title":"Pyro DPS Build",
+            "subtitle":"Yanfei is essentially a 4-star Klee who applies Pyro very fast but relies heavily on Crit Rate.",
+            "nbuild":"1",
+            "art1":"Crimson Witch of Flames",
+            "art2":"",
+            "weapon1":"Lost Prayer to the Sacred Winds",
+            "weapon2":"The Widsith",
+            "img":""
+            },
+            {
+            "nombre":"Yoimiya",
+            "lore":"A talented pyrotechnician. The current owner of Naganohara Fireworks known as the Queen of the Summer Festival. She is a household name in Inazuma.",
+            "title":"Pyro DPS Build",
+            "subtitle":"Yoimiya excels as a single target Main Pyro DPS thanks to her incredibly powerful Normal Attacks.",
+            "nbuild":"1",
+            "art1":"Shimenawa's Reminiscence",
+            "art2":"",
+            "weapon1":"Thundering Pulse",
+            "weapon2":"Rust",
+            "img":""
+            },
             {
             "nombre":"Zhongli",
             "lore":"A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
