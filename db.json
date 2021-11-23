@@ -1,5 +1,4 @@
 {
-"personajes":[
             {
             "nombre":"Albedo",
             "lore":"An alchemist based in Mondstadt, in the service of the Knights of Favonius.",
@@ -10,7 +9,7 @@
             "art2":"Noblesse Oblige",
             "weapon1":"Skyward Blade",
             "weapon2":"Festering Desire",
-            "img":"albedo.png"
+            "img":""
             },
             {
             "nombre":"Aloy",
@@ -22,7 +21,7 @@
             "art2":"",
             "weapon1":"Polar Star",
             "weapon2":"The Stringless",
-            "img":"aloy.png"
+            "img":""
             },
             {
             "nombre":"Amber",
@@ -34,7 +33,7 @@
             "art2":"",
             "weapon1":"Skyward Harp",
             "weapon2":"The Viridescent Hunt",
-            "img":"amber.png"
+            "img":""
             },
             {
             "nombre":"Ayaka",
@@ -45,8 +44,8 @@
             "art1":"Blizzard Strayer",
             "art2":"Blackcliff Longsword",
             "weapon1":"Mistsplitter Reforged",
-            "weapon2":"Blackcliff Longsword",
-            "img":"ayaka.png"
+            "weapon2":"",
+            "img":""
             },
             {
             "nombre":"Barbara",
@@ -58,7 +57,7 @@
             "art2":"",
             "weapon1":"Prototype Amber",
             "weapon2":"Thrilling Tales of Dragon Slayers",
-            "img":"barbara.png"
+            "img":""
             },
             {
             "nombre":"Beidou",
@@ -70,7 +69,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
-            "img":"beidou.png"
+            "img":""
             },
             {
             "nombre":"Bennett",
@@ -82,7 +81,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
-            "img":"bennett.png"
+            "img":""
             },
             {
             "nombre":"Chongyun",
@@ -94,7 +93,7 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Skyward Pride",
             "weapon2":"Favonius Greatsword",
-            "img":"chongyun.png"
+            "img":""
             },
             {
             "nombre":"Diluc",
@@ -106,7 +105,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
-            "img":"diluc.png"
+            "img":""
             },
             {
             "nombre":"Diona",
@@ -118,7 +117,7 @@
             "art2":"",
             "weapon1":"Sacrificial Bow",
             "weapon2":"Favonius Warbow",
-            "img":"diona.png"
+            "img":""
             },
             {
             "nombre":"Eula",
@@ -130,7 +129,7 @@
             "art2":"Pale Flame",
             "weapon1":"Song of Broken Pines",
             "weapon2":"Serpent Spine",
-            "img":"eula.png"
+            "img":""
             },
             {
             "nombre":"Fischl",
@@ -142,7 +141,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Skyward Harp",
             "weapon2":"The Stringless",
-            "img":"fischl.png"
+            "img":""
             },
             {
             "nombre":"Ganyu",
@@ -154,7 +153,7 @@
             "art2":"",
             "weapon1":"Amos' Bow",
             "weapon2":"Prototype Crescent",
-            "img":"ganyu.png"
+            "img":""
             },
             {
             "nombre":"Hu Tao",
@@ -166,7 +165,7 @@
             "art2":"",
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
-            "img":"hutao.png"
+            "img":"Favonius Sword"
             },
             {
             "nombre":"Jean",
@@ -178,7 +177,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
-            "img":"jean.png"
+            "img":""
             },
             {
             "nombre":"Kaeya",
@@ -190,7 +189,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
-            "img":"kaeya.png"
+            "img":""
             },
             {
             "nombre":"Kazuha",
@@ -202,7 +201,7 @@
             "art2":"",
             "weapon1":"Freedom-Sworn",
             "weapon2":"Iron Sting",
-            "img":"kazuha.png"
+            "img":""
             },
             {
             "nombre":"Keqing",
@@ -214,7 +213,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Primordial Jade Cutter",
             "weapon2":"The Black Sword",
-            "img":"keqing.png"
+            "img":""
             },
             {
             "nombre":"Klee",
@@ -226,7 +225,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Solar Pearl",
-            "img":"klee.png"
+            "img":""
             },
             {
             "nombre":"Kokomi",
@@ -238,7 +237,7 @@
             "art2":"",
             "weapon1":"Everlasting Moonglow",
             "weapon2":"Thrilling Tales of Dragon Slayers",
-            "img":"kokomi.png"
+            "img":""
             },
             {
             "nombre":"Lisa",
@@ -250,7 +249,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Favonius Codex",
-            "img":"lisa.png"
+            "img":""
             },
             {
             "nombre":"Mona",
@@ -262,7 +261,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Favonius Codex",
-            "img":"mona.png"
+            "img":""
             },
             {
             "nombre":"Ningguang",
@@ -274,7 +273,7 @@
             "art2":"Gladiator's Finale",
             "weapon1":"Lost Prayer to the Sacred Winds",
             "weapon2":"Solar Pearl",
-            "img":"ningguang.png"
+            "img":""
             },
             {
             "nombre":"Noelle",
@@ -286,7 +285,7 @@
             "art2":"Retracing Bolide",
             "weapon1":"Skyward Pride",
             "weapon2":"Whiteblind",
-            "img":"noelle.png"
+            "img":""
             },
             {
             "nombre":"Qiqi",
@@ -298,7 +297,19 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Skyward Blade",
             "weapon2":"Sacrificial Sword",
-            "img":"qiqi.png"
+            "img":""
+            },
+            {
+            "nombre":"Raiden",
+            "lore":"The Raiden Shogun is the awesome and terrible power of thunder incarnate, the exalted ruler of the Inazuma Shogunate.",
+            "title":"Electro Support Build",
+            "subtitle":"Baal has the unique capability of simultaneously being both a burst DPS with great multi-target damage and an energy battery support. However, it is not optimal to run her with the current top tier Main DPS characters.",
+            "nbuild":"1",
+            "art1":"Emblem of Severed Fate",
+            "art2":"",
+            "weapon1":"Engulfing Lightning",
+            "weapon2":"The Catch",
+            "img":""
             },
             {
             "nombre":"Razor",
@@ -310,7 +321,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
-            "img":"razor.png"
+            "img":""
             },
             {
             "nombre":"Rosaria",
@@ -322,7 +333,7 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
-            "img":"rosaria.png"
+            "img":""
             },
             {
             "nombre":"Sara",
@@ -334,7 +345,7 @@
             "art2":"",
             "weapon1":"Skyward Harp",
             "weapon2":"Sacrificial Bow",
-            "img":"sara.png"
+            "img":""
             },
             {
             "nombre":"Sayu",
@@ -346,19 +357,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Sacrificial Greatsword",
-            "img":"sayu.png"
-            },
-            {
-            "nombre":"Shougun Raiden",
-            "lore":"The Raiden Shogun is the awesome and terrible power of thunder incarnate, the exalted ruler of the Inazuma Shogunate.",
-            "title":"Electro Support Build",
-            "subtitle":"Baal has the unique capability of simultaneously being both a burst DPS with great multi-target damage and an energy battery support. However, it is not optimal to run her with the current top tier Main DPS characters.",
-            "nbuild":"1",
-            "art1":"Emblem of Severed Fate",
-            "art2":"",
-            "weapon1":"Engulfing Lightning",
-            "weapon2":"The Catch",
-            "img":"shougun.png"
+            "img":""
             },
             {
             "nombre":"Sucrose",
@@ -370,7 +369,7 @@
             "art2":"",
             "weapon1":"Sacrificial Fragments",
             "weapon2":"Mappa Mare",
-            "img":"sucrose.png"
+            "img":""
             },
             {
             "nombre":"Tartaglia",
@@ -382,7 +381,7 @@
             "art2":"Heart of Depth",
             "weapon1":"Polar Star",
             "weapon2":"The Viridescent Hunt",
-            "img":"tartaglia.png"
+            "img":""
             },
             {
             "nombre":"Thoma",
@@ -394,7 +393,7 @@
             "art2":"",
             "weapon1":"Skyward Spine",
             "weapon2":"The Catch",
-            "img":"thoma.png"
+            "img":""
             },
             {
             "nombre":"Venti",
@@ -406,7 +405,7 @@
             "art2":"",
             "weapon1":"The Stringless",
             "weapon2":"Favonius Warbow",
-            "img":"venti.png"
+            "img":""
             },
             {
             "nombre":"Xiangling",
@@ -418,7 +417,7 @@
             "art2":"",
             "weapon1":"Skyward Spine",
             "weapon2":"Prototype Grudge",
-            "img":"xiangling.png"
+            "img":""
             },
             {
             "nombre":"Xiao",
@@ -430,7 +429,7 @@
             "art2":"Viridescent Venerer",
             "weapon1":"Primordial Jade Winged-Spear",
             "weapon2":"Blackcliff Pole",
-            "img":"xiao.png"
+            "img":""
             },
             {
              "nombre":"Xingqiu",
@@ -442,44 +441,8 @@
              "art2":"",
              "weapon1":"Sacrificial Sword",
              "weapon2":"Favonius Sword",
-             "img":"xingqiu.png"
-            },
-            {
-            "nombre":"Xinyan",
-            "lore":"Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
-            "title":"Physical DPS Build",
-            "subtitle":"Unlike Diluc who focuses on Pyro DPS, Xinyan excels when built around physical damage similar to Razor. Switch the circlet to CRIT DMG if you unlock constellation level 2.",
-            "nbuild":"1",
-            "art1":"Gladiator's Finale",
-            "art2":"",
-            "weapon1":"Wolf's Gravestone",
-            "weapon2":"Prototype Aminus",
-            "img":"xinyan.png"
-            },
-            {
-            "nombre":"Yanfei",
-            "lore":"A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.",
-            "title":"Pyro DPS Build",
-            "subtitle":"Yanfei is essentially a 4-star Klee who applies Pyro very fast but relies heavily on Crit Rate.",
-            "nbuild":"1",
-            "art1":"Crimson Witch of Flames",
-            "art2":"",
-            "weapon1":"Lost Prayer to the Sacred Winds",
-            "weapon2":"The Widsith",
-            "img":"yanfei.png"
-            },
-            {
-            "nombre":"Yoimiya",
-            "lore":"A talented pyrotechnician. The current owner of Naganohara Fireworks known as the Queen of the Summer Festival. She is a household name in Inazuma.",
-            "title":"Pyro DPS Build",
-            "subtitle":"Yoimiya excels as a single target Main Pyro DPS thanks to her incredibly powerful Normal Attacks.",
-            "nbuild":"1",
-            "art1":"Shimenawa's Reminiscence",
-            "art2":"",
-            "weapon1":"Thundering Pulse",
-            "weapon2":"Rust",
-            "img":"yoimiya.png"
-            },
+             "img":""
+                },
             {
             "nombre":"Zhongli",
             "lore":"A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
@@ -490,7 +453,7 @@
             "art2":"",
             "weapon1":"Staff of Homa",
             "weapon2":"Black Tassel",
-            "img":"zhongli.png"
+            "img":""
             }
-   ]
+   
 }
