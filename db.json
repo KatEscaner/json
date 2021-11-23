@@ -301,18 +301,6 @@
             "img":"qiqi.png"
             },
             {
-            "nombre":"Shougun Raiden",
-            "lore":"The Raiden Shogun is the awesome and terrible power of thunder incarnate, the exalted ruler of the Inazuma Shogunate.",
-            "title":"Electro Support Build",
-            "subtitle":"Baal has the unique capability of simultaneously being both a burst DPS with great multi-target damage and an energy battery support. However, it is not optimal to run her with the current top tier Main DPS characters.",
-            "nbuild":"1",
-            "art1":"Emblem of Severed Fate",
-            "art2":"",
-            "weapon1":"Engulfing Lightning",
-            "weapon2":"The Catch",
-            "img":"shougun.png"
-            },
-            {
             "nombre":"Razor",
             "lore":"A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
             "title":"Physical DPS Build",
@@ -359,6 +347,18 @@
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Sacrificial Greatsword",
             "img":"sayu.png"
+            },
+            {
+            "nombre":"Shougun Raiden",
+            "lore":"The Raiden Shogun is the awesome and terrible power of thunder incarnate, the exalted ruler of the Inazuma Shogunate.",
+            "title":"Electro Support Build",
+            "subtitle":"Baal has the unique capability of simultaneously being both a burst DPS with great multi-target damage and an energy battery support. However, it is not optimal to run her with the current top tier Main DPS characters.",
+            "nbuild":"1",
+            "art1":"Emblem of Severed Fate",
+            "art2":"",
+            "weapon1":"Engulfing Lightning",
+            "weapon2":"The Catch",
+            "img":"shougun.png"
             },
             {
             "nombre":"Sucrose",
