@@ -10,7 +10,7 @@
             "art2":"Noblesse Oblige",
             "weapon1":"Skyward Blade",
             "weapon2":"Festering Desire",
-            "img":""
+            "img":"albedo.png"
             },
             {
             "nombre":"Aloy",
@@ -22,7 +22,7 @@
             "art2":"",
             "weapon1":"Polar Star",
             "weapon2":"The Stringless",
-            "img":""
+            "img":"aloy.png"
             },
             {
             "nombre":"Amber",
@@ -34,7 +34,7 @@
             "art2":"",
             "weapon1":"Skyward Harp",
             "weapon2":"The Viridescent Hunt",
-            "img":""
+            "img":"amber.png"
             },
             {
             "nombre":"Ayaka",
@@ -45,8 +45,8 @@
             "art1":"Blizzard Strayer",
             "art2":"Blackcliff Longsword",
             "weapon1":"Mistsplitter Reforged",
-            "weapon2":"",
-            "img":""
+            "weapon2":"Blackcliff Longsword",
+            "img":"ayaka.png"
             },
             {
             "nombre":"Barbara",
@@ -58,7 +58,7 @@
             "art2":"",
             "weapon1":"Prototype Amber",
             "weapon2":"Thrilling Tales of Dragon Slayers",
-            "img":""
+            "img":"barbara.png"
             },
             {
             "nombre":"Beidou",
@@ -70,7 +70,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
-            "img":""
+            "img":"beidou.png"
             },
             {
             "nombre":"Bennett",
@@ -82,7 +82,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
-            "img":""
+            "img":"benett.png"
             },
             {
             "nombre":"Chongyun",
@@ -94,7 +94,7 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Skyward Pride",
             "weapon2":"Favonius Greatsword",
-            "img":""
+            "img":"chongyun.png"
             },
             {
             "nombre":"Diluc",
@@ -106,7 +106,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
-            "img":""
+            "img":"diluc.png"
             },
             {
             "nombre":"Diona",
@@ -118,7 +118,7 @@
             "art2":"",
             "weapon1":"Sacrificial Bow",
             "weapon2":"Favonius Warbow",
-            "img":""
+            "img":"diona.png"
             },
             {
             "nombre":"Eula",
@@ -130,7 +130,7 @@
             "art2":"Pale Flame",
             "weapon1":"Song of Broken Pines",
             "weapon2":"Serpent Spine",
-            "img":""
+            "img":"eula.png"
             },
             {
             "nombre":"Fischl",
@@ -142,7 +142,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Skyward Harp",
             "weapon2":"The Stringless",
-            "img":""
+            "img":"finschl.png"
             },
             {
             "nombre":"Ganyu",
@@ -154,7 +154,7 @@
             "art2":"",
             "weapon1":"Amos' Bow",
             "weapon2":"Prototype Crescent",
-            "img":""
+            "img":"ganyu.png"
             },
             {
             "nombre":"Hu Tao",
@@ -166,7 +166,7 @@
             "art2":"",
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
-            "img":"Favonius Sword"
+            "img":"hutao.png"
             },
             {
             "nombre":"Jean",
@@ -178,7 +178,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
-            "img":""
+            "img":"jean.png"
             },
             {
             "nombre":"Kaeya",
@@ -190,7 +190,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
-            "img":""
+            "img":"kaeya.png"
             },
             {
             "nombre":"Kazuha",
@@ -202,7 +202,7 @@
             "art2":"",
             "weapon1":"Freedom-Sworn",
             "weapon2":"Iron Sting",
-            "img":""
+            "img":"kazuha.png"
             },
             {
             "nombre":"Keqing",
@@ -214,7 +214,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Primordial Jade Cutter",
             "weapon2":"The Black Sword",
-            "img":""
+            "img":"keqing.png"
             },
             {
             "nombre":"Klee",
@@ -226,7 +226,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Solar Pearl",
-            "img":""
+            "img":"klee.png"
             },
             {
             "nombre":"Kokomi",
@@ -238,7 +238,7 @@
             "art2":"",
             "weapon1":"Everlasting Moonglow",
             "weapon2":"Thrilling Tales of Dragon Slayers",
-            "img":""
+            "img":"kokomi.png"
             },
             {
             "nombre":"Lisa",
@@ -250,7 +250,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Favonius Codex",
-            "img":""
+            "img":"lisa.png"
             },
             {
             "nombre":"Mona",
@@ -262,7 +262,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Favonius Codex",
-            "img":""
+            "img":"mona.png"
             },
             {
             "nombre":"Ningguang",
@@ -274,7 +274,7 @@
             "art2":"Gladiator's Finale",
             "weapon1":"Lost Prayer to the Sacred Winds",
             "weapon2":"Solar Pearl",
-            "img":""
+            "img":"ningguang.png"
             },
             {
             "nombre":"Noelle",
@@ -286,7 +286,7 @@
             "art2":"Retracing Bolide",
             "weapon1":"Skyward Pride",
             "weapon2":"Whiteblind",
-            "img":""
+            "img":"noelle.png"
             },
             {
             "nombre":"Qiqi",
@@ -298,10 +298,10 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Skyward Blade",
             "weapon2":"Sacrificial Sword",
-            "img":""
+            "img":"qiqi.png"
             },
             {
-            "nombre":"Raiden",
+            "nombre":"Shogun Raiden",
             "lore":"The Raiden Shogun is the awesome and terrible power of thunder incarnate, the exalted ruler of the Inazuma Shogunate.",
             "title":"Electro Support Build",
             "subtitle":"Baal has the unique capability of simultaneously being both a burst DPS with great multi-target damage and an energy battery support. However, it is not optimal to run her with the current top tier Main DPS characters.",
@@ -310,7 +310,7 @@
             "art2":"",
             "weapon1":"Engulfing Lightning",
             "weapon2":"The Catch",
-            "img":""
+            "img":"shogun.png"
             },
             {
             "nombre":"Razor",
@@ -322,7 +322,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
-            "img":""
+            "img":"razor.png"
             },
             {
             "nombre":"Rosaria",
@@ -334,7 +334,7 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
-            "img":""
+            "img":"rosaria.png"
             },
             {
             "nombre":"Sara",
@@ -346,7 +346,7 @@
             "art2":"",
             "weapon1":"Skyward Harp",
             "weapon2":"Sacrificial Bow",
-            "img":""
+            "img":"sara.png"
             },
             {
             "nombre":"Sayu",
@@ -358,7 +358,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Sacrificial Greatsword",
-            "img":""
+            "img":"sayu.png"
             },
             {
             "nombre":"Sucrose",
@@ -370,7 +370,7 @@
             "art2":"",
             "weapon1":"Sacrificial Fragments",
             "weapon2":"Mappa Mare",
-            "img":""
+            "img":"sucrose.png"
             },
             {
             "nombre":"Tartaglia",
@@ -382,7 +382,7 @@
             "art2":"Heart of Depth",
             "weapon1":"Polar Star",
             "weapon2":"The Viridescent Hunt",
-            "img":""
+            "img":"tartaglia.png"
             },
             {
             "nombre":"Thoma",
@@ -394,7 +394,7 @@
             "art2":"",
             "weapon1":"Skyward Spine",
             "weapon2":"The Catch",
-            "img":""
+            "img":"thoma.png"
             },
             {
             "nombre":"Venti",
@@ -406,7 +406,7 @@
             "art2":"",
             "weapon1":"The Stringless",
             "weapon2":"Favonius Warbow",
-            "img":""
+            "img":"venti.png"
             },
             {
             "nombre":"Xiangling",
@@ -418,7 +418,7 @@
             "art2":"",
             "weapon1":"Skyward Spine",
             "weapon2":"Prototype Grudge",
-            "img":""
+            "img":"xiangling.png"
             },
             {
             "nombre":"Xiao",
@@ -430,7 +430,7 @@
             "art2":"Viridescent Venerer",
             "weapon1":"Primordial Jade Winged-Spear",
             "weapon2":"Blackcliff Pole",
-            "img":""
+            "img":"xiao.png"
             },
             {
              "nombre":"Xingqiu",
@@ -442,7 +442,7 @@
              "art2":"",
              "weapon1":"Sacrificial Sword",
              "weapon2":"Favonius Sword",
-             "img":""
+             "img":"xinquiu.png"
             },
             {
             "nombre":"Xinyan",
@@ -454,7 +454,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Prototype Aminus",
-            "img":""
+            "img":"xinyan.png"
             },
             {
             "nombre":"Yanfei",
@@ -466,7 +466,7 @@
             "art2":"",
             "weapon1":"Lost Prayer to the Sacred Winds",
             "weapon2":"The Widsith",
-            "img":""
+            "img":"yanfei.png"
             },
             {
             "nombre":"Yoimiya",
@@ -478,7 +478,7 @@
             "art2":"",
             "weapon1":"Thundering Pulse",
             "weapon2":"Rust",
-            "img":""
+            "img":"yoimiya.png"
             },
             {
             "nombre":"Zhongli",
@@ -490,7 +490,7 @@
             "art2":"",
             "weapon1":"Staff of Homa",
             "weapon2":"Black Tassel",
-            "img":""
+            "img":"zhongli.png"
             }
    ]
 }
