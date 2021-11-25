@@ -10,6 +10,7 @@
             "art2":"Noblesse Oblige",
             "weapon1":"Skyward Blade",
             "weapon2":"Festering Desire",
+            "video":"",
             "img":"albedo.png"
             },
             {
@@ -22,6 +23,7 @@
             "art2":"",
             "weapon1":"Polar Star",
             "weapon2":"The Stringless",
+            "video":"",
             "img":"aloy.png"
             },
             {
@@ -34,6 +36,7 @@
             "art2":"",
             "weapon1":"Skyward Harp",
             "weapon2":"The Viridescent Hunt",
+            "video":"",
             "img":"amber.png"
             },
             {
@@ -46,6 +49,7 @@
             "art2":"Blackcliff Longsword",
             "weapon1":"Mistsplitter Reforged",
             "weapon2":"Blackcliff Longsword",
+            "video":"",
             "img":"ayaka.png"
             },
             {
@@ -58,6 +62,7 @@
             "art2":"",
             "weapon1":"Prototype Amber",
             "weapon2":"Thrilling Tales of Dragon Slayers",
+            "video":"",
             "img":"barbara.png"
             },
             {
@@ -70,6 +75,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
+            "video":"",
             "img":"beidou.png"
             },
             {
@@ -82,6 +88,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
+            "video":"", 
             "img":"bennett.png"
             },
             {
@@ -94,6 +101,7 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Skyward Pride",
             "weapon2":"Favonius Greatsword",
+            "video":"",
             "img":"chongyun.png"
             },
             {
@@ -106,6 +114,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
+            "video":"",
             "img":"diluc.png"
             },
             {
@@ -118,6 +127,7 @@
             "art2":"",
             "weapon1":"Sacrificial Bow",
             "weapon2":"Favonius Warbow",
+            "video":"",
             "img":"diona.png"
             },
             {
@@ -130,6 +140,7 @@
             "art2":"Pale Flame",
             "weapon1":"Song of Broken Pines",
             "weapon2":"Serpent Spine",
+            "video":"",
             "img":"eula.png"
             },
             {
@@ -142,6 +153,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Skyward Harp",
             "weapon2":"The Stringless",
+            "video":"",
             "img":"fischl.png"
             },
             {
@@ -154,6 +166,7 @@
             "art2":"",
             "weapon1":"Amos' Bow",
             "weapon2":"Prototype Crescent",
+            "video":"",
             "img":"ganyu.png"
             },
             {
@@ -166,6 +179,7 @@
             "art2":"",
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
+            "video":"",
             "img":"hutao.png"
             },
             {
@@ -178,6 +192,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
+            "video":"",
             "img":"jean.png"
             },
             {
@@ -190,6 +205,7 @@
             "art2":"",
             "weapon1":"Skyward Blade",
             "weapon2":"Favonius Sword",
+            "video":"",
             "img":"kaeya.png"
             },
             {
@@ -202,6 +218,7 @@
             "art2":"",
             "weapon1":"Freedom-Sworn",
             "weapon2":"Iron Sting",
+            "video":"",
             "img":"kazuha.png"
             },
             {
@@ -214,6 +231,7 @@
             "art2":"Thundering Fury",
             "weapon1":"Primordial Jade Cutter",
             "weapon2":"The Black Sword",
+            "video":"",
             "img":"keqing.png"
             },
             {
@@ -226,6 +244,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Solar Pearl",
+            "video":"",
             "img":"klee.png"
             },
             {
@@ -238,6 +257,7 @@
             "art2":"",
             "weapon1":"Everlasting Moonglow",
             "weapon2":"Thrilling Tales of Dragon Slayers",
+            "video":"",
             "img":"kokomi.png"
             },
             {
@@ -250,6 +270,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Favonius Codex",
+            "video":"",
             "img":"lisa.png"
             },
             {
@@ -262,6 +283,7 @@
             "art2":"",
             "weapon1":"Skyward Atlas",
             "weapon2":"Favonius Codex",
+            "video":"",
             "img":"mona.png"
             },
             {
@@ -274,6 +296,7 @@
             "art2":"Gladiator's Finale",
             "weapon1":"Lost Prayer to the Sacred Winds",
             "weapon2":"Solar Pearl",
+            "video":"",
             "img":"ningguang.png"
             },
             {
@@ -286,6 +309,7 @@
             "art2":"Retracing Bolide",
             "weapon1":"Skyward Pride",
             "weapon2":"Whiteblind",
+            "video":"",
             "img":"noelle.png"
             },
             {
@@ -298,6 +322,7 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Skyward Blade",
             "weapon2":"Sacrificial Sword",
+            "video":"",
             "img":"qiqi.png"
             },
             {
@@ -310,6 +335,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Serpent Spine",
+            "video":"",
             "img":"razor.png"
             },
             {
@@ -322,6 +348,7 @@
             "art2":"Blizzard Strayer",
             "weapon1":"Staff of Homa",
             "weapon2":"Deathmatch",
+            "video":"",
             "img":"rosaria.png"
             },
             {
@@ -334,6 +361,7 @@
             "art2":"",
             "weapon1":"Skyward Harp",
             "weapon2":"Sacrificial Bow",
+            "video":"",
             "img":"sara.png"
             },
             {
@@ -346,6 +374,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Sacrificial Greatsword",
+            "video":"",
             "img":"sayu.png"
             },
             {
@@ -358,6 +387,7 @@
             "art2":"",
             "weapon1":"Engulfing Lightning",
             "weapon2":"The Catch",
+            "video":"",
             "img":"shougun.png"
             },
             {
@@ -370,6 +400,7 @@
             "art2":"",
             "weapon1":"Sacrificial Fragments",
             "weapon2":"Mappa Mare",
+            "video":"",
             "img":"sucrose.png"
             },
             {
@@ -382,6 +413,7 @@
             "art2":"Heart of Depth",
             "weapon1":"Polar Star",
             "weapon2":"The Viridescent Hunt",
+            "video":"",
             "img":"tartaglia.png"
             },
             {
@@ -394,6 +426,7 @@
             "art2":"",
             "weapon1":"Skyward Spine",
             "weapon2":"The Catch",
+            "video":"",
             "img":"thoma.png"
             },
             {
@@ -406,6 +439,7 @@
             "art2":"",
             "weapon1":"The Stringless",
             "weapon2":"Favonius Warbow",
+            "video":"",
             "img":"venti.png"
             },
             {
@@ -418,6 +452,7 @@
             "art2":"",
             "weapon1":"Skyward Spine",
             "weapon2":"Prototype Grudge",
+            "video":"",
             "img":"xiangling.png"
             },
             {
@@ -430,6 +465,7 @@
             "art2":"Viridescent Venerer",
             "weapon1":"Primordial Jade Winged-Spear",
             "weapon2":"Blackcliff Pole",
+            "video":"",
             "img":"xiao.png"
             },
             {
@@ -442,6 +478,7 @@
              "art2":"",
              "weapon1":"Sacrificial Sword",
              "weapon2":"Favonius Sword",
+             "video":"",
              "img":"xingqiu.png"
             },
             {
@@ -454,6 +491,7 @@
             "art2":"",
             "weapon1":"Wolf's Gravestone",
             "weapon2":"Prototype Aminus",
+            "video":"",
             "img":"xinyan.png"
             },
             {
@@ -466,6 +504,7 @@
             "art2":"",
             "weapon1":"Lost Prayer to the Sacred Winds",
             "weapon2":"The Widsith",
+            "video":"",
             "img":"yanfei.png"
             },
             {
@@ -478,6 +517,7 @@
             "art2":"",
             "weapon1":"Thundering Pulse",
             "weapon2":"Rust",
+            "video":"",
             "img":"yoimiya.png"
             },
             {
@@ -490,6 +530,7 @@
             "art2":"",
             "weapon1":"Staff of Homa",
             "weapon2":"Black Tassel",
+            "video":"",
             "img":"zhongli.png"
             }
    ]
