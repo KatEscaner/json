@@ -2,6 +2,7 @@
 "personajes":[
             {
             "nombre":"Albedo",
+            "tier":"S",
             "lore":"An alchemist based in Mondstadt, in the service of the Knights of Favonius.",
             "title":"Geo Support Build",
             "subtitle":"Thanks to his low cooldowns and high energy generation, Albedo excels at the secondary DPS role, swapping in and out as his skills become available.",
@@ -15,6 +16,7 @@
             },
             {
             "nombre":"Aloy",
+            "tier":"A",
             "lore":"An agile hunter from the Nora tribe. With bow in hand, she's always ready to protect the innocent.",
             "title":"Cryo DPS Build",
             "subtitle":"Aloy is a great Cryo Sub DPS with a strong Elemental Burst. The 0.1s delay on her coils prevent her from really shining as a Main DPS.",
@@ -28,6 +30,7 @@
             },
             {
             "nombre":"Amber",
+            "tier":"C",
             "lore":"Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
             "title":"Pyro Support Build",
             "subtitle":"This build empowers Amber's Elemental Skill and Burst abilities.",
@@ -41,6 +44,7 @@
             },
             {
             "nombre":"Ayaka",
+            "tier":"S+",
             "lore":"Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Poised and graceful, noble and virtuous.",
             "title":"Cryo DPS Build",
             "subtitle":"Ayaka is an absolutely DPS monster. A very safe playstyle thanks to her sprint and a reliable source of Cryo from her Skill, makes her a force to be reckoned with.",
@@ -54,6 +58,7 @@
             },
             {
             "nombre":"Barbara",
+            "tier":"A",
             "lore":"Every denizen of Mondstadt adores Barbara. However, she learned the word idol from a magazine.",
             "title":"Hydro Healer Build",
             "subtitle":"While she won't increase your team's damage output, Barbara will keep all your units alive and healthy. We empower her healing by stacking HP. When using Thrilling Tales of Dragon Slayers as her weapon, you want to switch to Barbara every 20 seconds and then to your DPS for the ATK boost.",
@@ -67,6 +72,7 @@
             },
             {
             "nombre":"Beidou",
+            "tier":"A",
             "lore":"Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
             "title":"Electro Support Build",
             "subtitle":"Beidou's damage output spikes when perfectly timing the counterattack from her second skill, Tidecaller, after you've unlocked her 1st and 2nd passive talents. This will give you a 10 second window of increased damage from your normal and charged attacks.",
@@ -80,6 +86,7 @@
             },
             {
             "nombre":"Bennett",
+            "tier":"SS+",
             "lore":"A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
             "title":"Pyro Support Build",
             "subtitle":"This build focuses on empowering Bennett's burst skill by stacking Energy Recharge. Keep in mind that the bonus ATK given to his Elemental Burst skill only comes from Base ATK, not ATK%.",
@@ -93,6 +100,7 @@
             },
             {
             "nombre":"Chongyun",
+            "tier":"A",
             "lore":"A young exortcist from a family of exorcists. He does everything he can to suppress his pure positive energy.",
             "title":"Cryo Support Build",
             "subtitle":"Melt is one of the strongest Elemental Reactions in the game and Chongyun has a consistent method of applying the Cryo debuff with his Elemental Skill ability. This makes him a strong support character when paired with Pyro carries.",
@@ -106,6 +114,7 @@
             },
             {
             "nombre":"Diluc",
+            "tier":"S",
             "lore":"The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
             "title":"Pyro DPS Build",
             "subtitle":"This build can work without any constellations, but really shines when you have all 6. At constellation level 6, Diluc becomes an unstoppable Pyro DMG dealing machine, weaving 2 normal attacks in between every Searing Onslaught hit.",
@@ -119,6 +128,7 @@
             },
             {
             "nombre":"Diona",
+            "tier":"S",
             "lore":"A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern.",
             "title":"Cryo Support Build",
             "subtitle":"Diona can work great as a source superconductor and extra protection for physical carries like Razor. She can also be used to set up melt reactions for Pyro carries.",
@@ -132,6 +142,7 @@
             },
             {
             "nombre":"Eula",
+            "tier":"S+",
             "lore":"A rebellious descendant of the old aristocracy who is always out on the battlefield.",
             "title":"Physical DPS Build",
             "subtitle":"Despite the limitations of being a physical damage dealer, Eula more than makes up for it with her incredible damage. Due to her low particle generation, make sure to pick up Energy Recharge on the substats wherever possible.",
@@ -145,6 +156,7 @@
             },
             {
             "nombre":"Fischl",
+            "tier":"A",
             "lore":"A mysterious girl who calls herself Prinzessia der Verurteilung and travels with a night raven named Oz.",
             "title":"Electro Support Build",
             "subtitle":"This build empowers Fischl's Electro DMG on her skills. You could also use a full Noblesse Oblige set if you find yourself using her Elemental Burst very often. The Stringless is the preferred weapon.",
@@ -158,6 +170,7 @@
             },
             {
             "nombre":"Ganyu",
+            "tier":"SS+",
             "lore":"The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
             "title":"Cryo DPS Build",
             "subtitle":"This build focuses on empowering Ganyu's charged attack with the Wanderer's Troupe set since it amplifies both the initial hit and the AoE explosion from each shot.",
@@ -171,6 +184,7 @@
             },
             {
             "nombre":"Hu Tao",
+            "tier":"SS+",
             "lore":"Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
             "title":"Pyro DPS Build",
             "subtitle":"Hu Tao excels at single target damage, especially when animation cancelling her Charged Attack and triggering Melt and Vaporize. Pairing Hu Tao with shields to keep her below 50% HP is very powerful.",
@@ -184,6 +198,7 @@
             },
             {
             "nombre":"Jean",
+            "tier":"S",
             "lore":"The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius in Mondstadt.",
             "title":"Anemo Support Build",
             "subtitle":"This build empowers Jean's Elemental Burst ability to maximize her healing, while simultaneously reducing enemies' Elemental RES for the rest of your party.",
@@ -197,6 +212,7 @@
             },
             {
             "nombre":"Kaeya",
+            "tier":"A",
             "lore":"A thinker in the Knights of Favonius with a somewhat exotic appearance.",
             "title":"Cryo Support Build",
             "subtitle":"This build empowers Kaeya's Elemental Burst ability which procs multiple times, leading to very consistent elemental reactions and damage. This build becomes much more powerful with Constellation level 6.",
@@ -210,6 +226,7 @@
             },
             {
             "nombre":"Kazuha",
+            "tier":"SS+",
             "lore":"A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet.",
             "title":"Anemo Support Build",
             "subtitle":"Kazuha is a powerful anemo sub DPS that focuses on Elemental Mastery damage via Swirls.",
@@ -223,6 +240,7 @@
             },
             {
             "nombre":"Keqing",
+            "tier":"A",
             "lore":"The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
             "title":"Electro DPS Build",
             "subtitle":"Keqing has the highest single target charged attack DPS in the game. This build turns Keqing into a crit machine, taking advantage of the boost to CRIT DMG she gets with every ascension level.",
@@ -236,6 +254,7 @@
             },
             {
             "nombre":"Klee",
+            "tier":"S",
             "lore":"An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
             "title":"Pyro DPS Build",
             "subtitle":"Klee's highest damage source comes from spamming her charged attack and she really comes online when paired with Bennet's ultimate, more so than Diluc.",
@@ -249,6 +268,7 @@
             },
             {
             "nombre":"Kokomi",
+            "tier":"A",
             "lore":"The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
             "title":"Hydro Support Build",
             "subtitle":"Kokomi is a solid Hydro support with powerful healing that scales with HP.",
@@ -262,6 +282,7 @@
             },
             {
             "nombre":"Lisa",
+            "tier":"B",
             "lore":"The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguised graduate in the past two centuries.",
             "title":"Electro Support Build",
             "subtitle":"This build empower's Lisa's Elemental Burst abilty. It would be much stronger if it didn't knock enemies out of it, but it can be very powerful on bosses.",
@@ -275,6 +296,7 @@
             },
             {
             "nombre":"Mona",
+            "tier":"S+",
             "lore":"A mysterious young astrologer who proclaims herself to be Astrologist Mona Megistus, and who possesses abilities to match the title.",
             "title":"Hydro Support Build",
             "subtitle":"Mona excels at empowering DPS units through the use of her Burst Skill making energy recharge incredibly valuable.",
@@ -288,6 +310,7 @@
             },
             {
             "nombre":"Ningguang",
+            "tier":"A",
             "lore":"The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
             "title":"Geo DPS Build",
             "subtitle":"Ningguang is a character that scales extremely well with high constellation levels, making her one of the burstier single target units in the game. A full Retracing Bolide set can also work.",
@@ -301,6 +324,7 @@
             },
             {
             "nombre":"Noelle",
+            "tier":"A",
             "lore":"A maid in the service of the Knights of Favonius that dreams of joining their ranks someday.",
             "title":"Geo Support Build",
             "subtitle":"Noelle can be used a great defensive healer. The full Maiden Beloved artifact set helps boost her lower healing throughput to be more comparable to other healers.",
@@ -314,6 +338,7 @@
             },
             {
             "nombre":"Qiqi",
+            "tier":"S",
             "lore":"An apprentice and herb-picker Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
             "title":"Cryo Support Build",
             "subtitle":"Qiqi is the ultimate healing support thanks to her powerful healing and Cryo damage while not active.",
@@ -327,6 +352,7 @@
             },
             {
             "nombre":"Razor",
+            "tier":"A",
             "lore":"A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
             "title":"Physical DPS Build",
             "subtitle":"This build empowers Razor's physical damage output, synergising with the bonuses from his Lightning Fang burst skill.",
@@ -340,6 +366,7 @@
             },
             {
             "nombre":"Rosaria",
+            "tier":"A",
             "lore":"A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
             "title":"Cryo Support Build",
             "subtitle":"Rosaria is an excellent Sub DPS Cryo character who can deal great damage and offers a powerful buff. If played in a team without any other Cryo users, you will want to increase her Energy Recharge considerably. Otherwise, you can focus on more standard damage stats. When built right and played with the right team, Rosaria can provide the team with a constant 15% increased CRIT Rate and strong Cryo elemental reactions.",
@@ -353,6 +380,7 @@
             },
             {
             "nombre":"Sara",
+            "tier":"S",
             "lore":"Not much is yet known about Kujou Sara, except that she serves under Baal as both an aide and a body-guard, helping the God of Eternity in her vision hunt decree.",
             "title":"Electro Support Build",
             "subtitle":"While not as powerful as Bennett, Sara can fulfill the same powerful role in Electro teams.",
@@ -366,6 +394,7 @@
             },
             {
             "nombre":"Sayu",
+            "tier":"A",
             "lore":"A print-sized ninja attached to the Shiyuumatsu-Ban, who always seems to be lacking sleep.",
             "title":"Anemo Support Build",
             "subtitle":"Sayu excels at both healing and shredding enemy resistances with his area of effect attacks and the 4pc Viridescent Venerer artifact set.",
@@ -379,6 +408,7 @@
             },
             {
             "nombre":"Shougun Raiden",
+            "tier":"SS+",
             "lore":"The Raiden Shogun is the awesome and terrible power of thunder incarnate, the exalted ruler of the Inazuma Shogunate.",
             "title":"Electro Support Build",
             "subtitle":"Baal has the unique capability of simultaneously being both a burst DPS with great multi-target damage and an energy battery support. However, it is not optimal to run her with the current top tier Main DPS characters.",
@@ -392,6 +422,7 @@
             },
             {
             "nombre":"Sucrose",
+            "tier":"S",
             "lore":"An alchemist filled with curiosity about all things. She researches bio-alchemy.",
             "title":"Anemo Support Build",
             "subtitle":"This build turns Sucrose's into an Elemental Mastery battery, increasing this stat as much as possible to share it with her party members.",
@@ -405,6 +436,7 @@
             },
             {
             "nombre":"Tartaglia",
+            "tier":"S+",
             "lore":"No. 11 of The Harbingers, also known as Childe. His name is highly feared on the battlefield.",
             "title":"Hydro DPS Build",
             "subtitle":"With the highest scaling Elemental Burst skill multiplier in the game, Tartaglia is an incredible Hydro damage dealer. Like Diluc, he becomes unstoppable with high constellations but does not need them to be extremely powerful. If you're playing with Noelle or a Geo character on your team, consider running the Retracing Bolide set instead.",
@@ -418,6 +450,7 @@
             },
             {
             "nombre":"Thoma",
+            "tier":"A",
             "lore":"The Kamisato Clan's housekeeper. A well-known fixer in Inazuma.",
             "title":"Pyro Support Build",
             "subtitle":"Thoma has very low damage ratios due to the large amount of utility in his kit, primarily focused on shields. This build empowers that utility with Energy Recharge and Health scaling.",
@@ -431,6 +464,7 @@
             },
             {
             "nombre":"Venti",
+            "tier":"S+",
             "lore":"One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
             "title":"Anemo Support Build",
             "subtitle":"This build empowers Venti's energy recharge to minimize the downtime of his Elemental Burst skill. The Stringless is the preferred weapon.",
@@ -444,6 +478,7 @@
             },
             {
             "nombre":"Xiangling",
+            "tier":"S+",
             "lore":"A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
             "title":"Pyro Support Build",
             "subtitle":"Xiangling is one of the strongest Sub DPS characters in the game if played in a Melt composition thanks to the scaling and power of her Elemental Burst.",
@@ -457,6 +492,7 @@
             },
             {
             "nombre":"Xiao",
+            "tier":"S+",
             "lore":"A yaksha adeptus that defends Liyue. Also heralded as the Conqueror of Demons or Vigilant Yaksha.",
             "title":"Anemo DPS Build",
             "subtitle":"This build empowers Xiao's Normal Attack and low CD Elemental Skill damage, which are all also enhanced by his Elemental Burst skill.",
@@ -470,6 +506,7 @@
             },
             {
              "nombre":"Xingqiu",
+            "tier":"SS+",
              "lore":"A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
              "title":"Hydro Support Build",
              "subtitle":"Xingqiu can be a reliable source of Hydro reactions thanks to his Elemental Burst ability, while providing useful damage reduction and healing to his party members. At Constellation level 2, he becomes incredible powerful when paired with a Hydro DPS unit.",
@@ -483,6 +520,7 @@
             },
             {
             "nombre":"Xinyan",
+            "tier":"",
             "lore":"Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
             "title":"Physical DPS Build",
             "subtitle":"Unlike Diluc who focuses on Pyro DPS, Xinyan excels when built around physical damage similar to Razor. Switch the circlet to CRIT DMG if you unlock constellation level 2.",
@@ -496,6 +534,7 @@
             },
             {
             "nombre":"Yanfei",
+            "tier":"B",
             "lore":"A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.",
             "title":"Pyro DPS Build",
             "subtitle":"Yanfei is essentially a 4-star Klee who applies Pyro very fast but relies heavily on Crit Rate.",
@@ -509,6 +548,7 @@
             },
             {
             "nombre":"Yoimiya",
+            "tier":"S",
             "lore":"A talented pyrotechnician. The current owner of Naganohara Fireworks known as the Queen of the Summer Festival. She is a household name in Inazuma.",
             "title":"Pyro DPS Build",
             "subtitle":"Yoimiya excels as a single target Main Pyro DPS thanks to her incredibly powerful Normal Attacks.",
@@ -522,6 +562,7 @@
             },
             {
             "nombre":"Zhongli",
+            "tier":"SS+",
             "lore":"A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
             "title":"Geo Support Build",
             "subtitle":"With the addition of Tenacity of the Millelith, Zhongli's utility power has increased tremendously. By stacking HP, his shields will keep your team healthy throughout the hardest fights.",
