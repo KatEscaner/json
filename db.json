@@ -577,8 +577,8 @@
    ],
     "weapons":[
    {
-            "Mistsplitter Reforged":"dragon"
-            
+            "name":"Mistsplitter Reforged"
+            "img": ""
    },
    {
             "arco":"algo"
