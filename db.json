@@ -576,7 +576,7 @@
             }
    ],
     "weapons":
-   [
+   [{
             "ejemplo":"arma"
-    ]
+   }]
 }
