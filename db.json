@@ -577,11 +577,12 @@
    ],
     "weapons":[
    {
-            "name":"Mistsplitter Reforged"
+            "name":"Mistsplitter Reforged",
             "img": ""
    },
    {
-            "arco":"algo"
+            "arco":"algo",
+            "arma":"aaa"
    }
     ]
 }
