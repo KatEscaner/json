@@ -1016,5 +1016,135 @@
             "name":"Memory of Dust",
             "img":"Memory_of_Dust.png"    
    }
+    ],
+    "artefacts":[
+   {             
+            "name":"Adventurer",
+            "img":"Adventurer.png"    
+   },
+   {             
+            "name":"Traveling Doctor",
+            "img":"Traveling_Doctor.png"    
+   },
+   {             
+            "name":"Resolution of Sojourner",
+            "img":"Resolution_of_Sojourner.png"    
+   },
+   {             
+            "name":"Brave Heart",
+            "img":"Brave_Heart.png"    
+   },
+   {             
+            "name":"Martial Artist",
+            "img":"Martial_Artist.png"    
+   },
+   {             
+            "name":"Berserker",
+            "img":"Berserker.png"    
+   },
+   {             
+            "name":"Bloodstained Chivalry",
+            "img":"Bloodstained_Chivalry.png"    
+   },
+   {             
+            "name":"Gladiator's Finale",
+            "img":"Gladiator's_Finale.png"    
+   },
+   {             
+            "name":"Wanderer's Troupe",
+            "img":"Wanderer's_Troupe.png"
+   },
+   {             
+            "name":"Pale Flame",
+            "img":"Pale_Flame.png"    
+   },
+   {             
+            "name":"Gambler",
+            "img":"Gambler.png"    
+   },
+   {             
+            "name":"Thundering Fury",
+            "img":"Thundering_Fury.png"    
+   },
+   {             
+            "name":"Viridescent Venerer",
+            "img":"Viridescent_Venerer.png"    
+   },
+   {             
+            "name":"Archaic Petra",
+            "img":"Archaic_Petra.png"    
+   },
+   {             
+            "name":"Crimson Witch of Flames",
+            "img":"Crimson_Witch_of_Flames.png"    
+   },
+   {             
+            "name":"Noblesse Oblige",
+            "img":"Noblesse_Oblige.png"    
+   },
+   {             
+            "name":"Blizzard Strayer",
+            "img":"Blizzard_Strayer.png"    
+   },
+   {             
+            "name":"Heart of Depth",
+            "img":"Heart_of_Depth.png"    
+   },
+   {             
+            "name":"Glacier and Snowfield",
+            "img":"Glacier_and_Snowfield.png"    
+   },
+   {             
+            "name":"Shimenawa's Reminiscence",
+            "img":"Shimenawa's_Reminiscence.png"
+   },
+   {             
+            "name":"Lucky Dog",
+            "img":"Lucky_Dog.png"    
+   },
+   {             
+            "name":"Defender's Will",
+            "img":"Defender's_Will.png"    
+   },
+   {             
+            "name":"Retracing Bolide",
+            "img":"Retracing_Bolide.png"    
+   },
+   {             
+            "name":"Tiny Miracle",
+            "img":"Tiny_Miracle.png"    
+   },
+   {             
+            "name":"Thundersoother",
+            "img":"Thundersoother.png"    
+   },
+   {             
+            "name":"Lavawalker",
+            "img":"Lavawalker.png"    
+   },
+   {             
+            "name":"Scholar",
+            "img":"Scholar.png"    
+   },
+   {             
+            "name":"Instructor",
+            "img":"Instructor.png"    
+   },
+   {             
+            "name":"The Exile",
+            "img":"The_Exile.png"    
+   },
+   {             
+            "name":"Maiden Beloved",
+            "img":"Maiden_Beloved.png"    
+   },
+   {             
+            "name":"Tenacity of the Millelith",
+            "img":"Tenacity_of_the_Millelith.png"    
+   },
+   {             
+            "name":"Emblem of Severed Fate",
+            "img":"Emblem_of_Severed_Fate.png"    
+   }
     ]
 }
