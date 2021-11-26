@@ -575,8 +575,8 @@
             "img":"zhongli.png"
             }
    ],
-    "weapons":
-   [{
+    "weapons":[
+   {
             "ejemplo":"arma"
    }]
 }
