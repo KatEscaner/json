@@ -788,6 +788,10 @@
             "name":"Crescent Pike",
             "img":"Crescent_Pike.png"    
    },
+   {
+            "name":"Deathmatch",
+            "img":"Deathmatch.png"
+   },
    {             
             "name":"Dragon's Bane",
             "img":"Dragon's_Bane.png"    
