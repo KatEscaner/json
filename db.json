@@ -578,7 +578,8 @@
     "weapons":[
    {
             "lanza":"dragon",
-            "arco": "gato"
+            "arco": "gato",
+            "mandoble": "leon"
             
    }]
 }
