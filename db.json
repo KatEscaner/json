@@ -984,5 +984,33 @@
             "name":"Wine and Song",
             "img":"Wine_and_Song.png"    
    },
+   {             
+            "name":"Eye of Perception",
+            "img":"Eye_of_Perception.png"    
+   },
+   {             
+            "name":"Frostbearer",
+            "img":"Frostbearer.png"    
+   },
+   {             
+            "name":"Dodoco Tales",
+            "img":"Dodoco_Tales.png"    
+   },
+   {             
+            "name":"Hakushin Ring",
+            "img":"Hakushin_Ring.png"    
+   },
+   {             
+            "name":"Lost Prayer to the Sacred Winds",
+            "img":"Lost_Prayer_to_the_Sacred_Winds.png"    
+   },
+   {             
+            "name":"Skyward Atlas",
+            "img":"Skyward_Atlas.png"    
+   },
+   {             
+            "name":"Memory of Dust",
+            "img":"Memory_of_Dust.png"    
+   }
     ]
 }
