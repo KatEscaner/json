@@ -800,5 +800,189 @@
             "name":"Prototype Starglitter",
             "img":"Prototype_Starglitter.png"    
    },
+   {             
+            "name":"Favonius Lance",
+            "img":"Favonius_Lance.png"    
+   },
+   {             
+            "name":"Royal Spear",
+            "img":"Royal_Spear.png"    
+   },
+   {             
+            "name":"Dragonspine Spear",
+            "img":"Dragonspine_Spear.png"    
+   },
+   {             
+            "name":"The Catch",
+            "img":"The_Catch.png"    
+   },
+   {             
+            "name":"Vortex Vanquisher",
+            "img":"Vortex_Vanquisher.png"    
+   },
+   {             
+            "name":"Primordial Jade Winged-Spear",
+            "img":"Primordial_Jade_Winged-Spear.png"    
+   },
+   {             
+            "name":"Skyward Spine",
+            "img":"Skyward_Spine.png"    
+   },
+   {             
+            "name":"Staff of Homa",
+            "img":"Staff_of_Homa.png"    
+   },
+   {             
+            "name":"Engulfing Lightning",
+            "img":"Engulfing_Lightning.png"    
+   },
+   {             
+            "name":"Messenger",
+            "img":"Messenger.png"    
+   },
+   {             
+            "name":"Raven Bow",
+            "img":"Raven_Bow.png"    
+   },
+   {             
+            "name":"Recurve Bow",
+            "img":"Recurve Bow.png"    
+   },
+   {             
+            "name":"Sharpshooter's Oath",
+            "img":"Sharpshooter's_Oath.png"    
+   },
+   {             
+            "name":"Slingshot",
+            "img":"Slingshot.png"    
+   },
+   {             
+            "name":"The Stringless",
+            "img":"The_Stringless.png"    
+   },
+   {             
+            "name":"Alley Hunter",
+            "img":"Alley_Hunter.png"    
+   },
+   {             
+            "name":"Blackcliff Warbow",
+            "img":"Blackcliff_Warbow.png"    
+   },
+   {             
+            "name":"Compound Bow",
+            "img":"Compound_Bow.png"    
+   },
+   {             
+            "name":"Favonius Warbow",
+            "img":"Favonius_Warbow.png"    
+   },
+   {             
+            "name":"Prototype Crescent",
+            "img":"Prototype_Crescent.png"    
+   },
+   {             
+            "name":"Royal Bow",
+            "img":"Royal_Bow.png"    
+   },
+   {             
+            "name":"Rust",
+            "img":"Rust.png"    
+   },
+   {             
+            "name":"Sacrificial Bow",
+            "img":"Sacrificial_Bow.png"    
+   },
+   {             
+            "name":"The Viridescent Hunt",
+            "img":"The_Viridescent_Hunt.png"    
+   },
+   {             
+            "name":"Windblume Ode",
+            "img":"Windblume_Ode.png"    
+   },
+   {             
+            "name":"Mitternachts Waltz",
+            "img":"Mitternachts_Waltz.png"    
+   },
+   {             
+            "name":"Hamayumi",
+            "img":"Hamayumi.png"
+   },
+   {             
+            "name":"Skyward Harp",
+            "img":"Skyward_Harp.png"    
+   },
+   {             
+            "name":"Amos' Bow",
+            "img":"Amos'_Bow.png"    
+   },
+   {             
+            "name":"Elegy for the End",
+            "img":"Elegy_for_the_End.png"    
+   },
+    {             
+            "name":"Thundering Pulse",
+            "img":"Thundering_Pulse.png"    
+   },
+   {             
+            "name":"Polar Star",
+            "img":"Polar_Star.png"    
+   },
+   {             
+            "name":"Emerald Orb",
+            "img":"Emerald_Orb.png"    
+   },
+   {             
+            "name":"Magic Guide",
+            "img":"Magic_Guide.png"    
+   },
+   {             
+            "name":"Otherworldly Story",
+            "img":"Otherworldly_Story.png"    
+   },
+   {             
+            "name":"Thrilling Tales of Dragon Slayers",
+            "img":"Thrilling_Tales_of_Dragon_Slayers.png"    
+   },
+   {             
+            "name":"Twin Nephrite",
+            "img":"Twin_Nephrite.png"    
+   },
+   {             
+            "name":"Blackcliff Agate",
+            "img":"Blackcliff_Agate.png"    
+   },
+   {             
+            "name":"Favonius Codex",
+            "img":"Favonius_Codex.png"    
+   },
+    {             
+            "name":"Mappa Mare",
+            "img":"Mappa_Mare.png"    
+   },
+   {             
+            "name":"Prototype Amber",
+            "img":"Prototype_Amber.png"    
+   },
+   {             
+            "name":"Royal Grimoire",
+            "img":"Royal_Grimoire.png"    
+   },
+   {             
+            "name":"Sacrificial Fragments",
+            "img":"Sacrificial_Fragments.png"    
+   },
+   {             
+            "name":"Solar Pearl",
+            "img":"Solar_Pearl.png"    
+   },
+   {             
+            "name":"The Widsith",
+            "img":"The_Widsith.png"    
+   },
+   {             
+            "name":"Wine and Song",
+            "img":"Wine_and_Song.png"    
+   },
     ]
 }
