@@ -577,9 +577,11 @@
    ],
     "weapons":[
    {
-            "Mistsplitter Reforged":"dragon",
-            "arco": "gato",
-            "mandoble": "leon"
+            "Mistsplitter Reforged":"dragon"
             
-   }]
+   },
+   {
+            "arco":"algo"
+   }
+    ]
 }
