@@ -577,6 +577,8 @@
    ],
     "weapons":[
    {
-            "ejemplo":"arma"
+            "lanza":"dragon"
+            "arco": "gato"
+            
    }]
 }
