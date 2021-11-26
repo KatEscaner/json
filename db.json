@@ -577,12 +577,228 @@
    ],
     "weapons":[
    {
-            "name":"Mistsplitter Reforged",
-            "img": ""
+            "name":"Cool Steel",
+            "img": "Cool_Steel.png"
    },
    {
-            "arco":"algo",
-            "arma":"aaa"
-   }
+            "name":"Dark Iron Sword",
+            "img":"Dark_Iron_Sword.png"
+   },
+   {             
+            "name":"Fillet Blade",
+            "img":"Fillet_Blade.png"    
+   },
+   {             
+            "name":"Harbinger of Dawn",
+            "img":"Harbinger_of_Dawn.png"    
+   },
+   {             
+            "name":"Skyrider Sword",
+            "img":"Skyrider_Sword.png"    
+   },
+   {             
+            "name":"Traveler's Handy Sword",
+            "img":"Traveler's_Handy_Sword.png"    
+   },
+   {             
+            "name":"Blackcliff Longsword",
+            "img":"Blackcliff_Longsword.png"    
+   },
+   {             
+            "name":"Favonius Sword",
+            "img":"Favonius_Sword.png"    
+   },
+   {             
+            "name":"Iron Sting",
+            "img":"Iron_Sting.png"    
+   },
+   {             
+            "name":"Lion's Roar",
+            "img":"Lion's_Roar.png"    
+   },
+   {             
+            "name":"Prototype Rancour",
+            "img":"Prototype_Rancour.png"    
+   },
+   {             
+            "name":"Royal Longsword",
+            "img":"Royal_Longsword.png"    
+   },
+   {             
+            "name":"Sacrificial Sword",
+            "img":"Sacrificial_Sword.png"    
+   },
+   {             
+            "name":"The Alley Flash",
+            "img":"The_Alley_Flash.png"    
+   },
+   {             
+            "name":"The Black Sword",
+            "img":"The_Black_Sword.png"    
+   },
+   {             
+            "name":"The Flute",
+            "img":"The_Flute.png"    
+   },
+   {             
+            "name":"Sword of Descension",
+            "img":"Sword_of_Descension.png"    
+   },
+   {             
+            "name":"Festering Desire",
+            "img":"Festering_Desire.png"    
+   },
+   {             
+            "name":"Amenoma Kageuchi",
+            "img":"Amenoma_Kageuchi.png"    
+   },
+   {             
+            "name":"Aquila Favonia",
+            "img":"Aquila_Favonia.png"    
+   },
+   {             
+            "name":"Skyward Blade",
+            "img":"Skyward_Blade.png"
+   },
+   {             
+            "name":"Summit Shaper",
+            "img":"Summit_Shaper.png"    
+   },
+   {             
+            "name":"Primordial Jade Cutter",
+            "img":"Primordial_Jade_Cutter.png"    
+   },
+   {             
+            "name":"Freedom-Sworn",
+            "img":"Freedom-Sworn.png"    
+   },
+   {             
+            "name":"Mistsplitter Reforged",
+            "img":"Mistsplitter_Reforged.png"    
+   },
+   {             
+            "name":"Bloodtainted Greatsword",
+            "img":"Bloodtainted_Greatsword.png"    
+   },
+   {             
+            "name":"Debate Club",
+            "img":"Debate_Club.png"    
+   },
+   {             
+            "name":"Ferrous Shadow",
+            "img":"Ferrous_Shadow.png"    
+   },
+   {             
+            "name":"Skyrider Greatsword",
+            "img":"Skyrider_Greatsword.png"    
+   },
+   {             
+            "name":"White Iron Greatsword",
+            "img":"White_Iron_Greatsword.png"    
+   },
+   {             
+            "name":"Blackcliff Slasher",
+            "img":"Blackcliff_Slasher.png"    
+   },
+   {             
+            "name":"Favonius Greatsword",
+            "img":"Favonius_Greatsword.png"    
+   },
+   {             
+            "name":"Lithic Blade",
+            "img":"Lithic_Blade.png"    
+   },
+   {             
+            "name":"Prototype Archaic",
+            "img":"Prototype_Archaic.png"    
+   },
+   {             
+            "name":"Rainslasher",
+            "img":"Rainslasher.png"    
+   },
+   {             
+            "name":"Royal Greatsword",
+            "img":"Royal_Greatsword.png"    
+   },
+   {             
+            "name":"Serpent Spine",
+            "img":"Serpent_Spine.png"    
+   },
+   {             
+            "name":"The Bell",
+            "img":"The_Bell.png"    
+   },
+   {             
+            "name":"Whiteblind",
+            "img":"Whiteblind.png"    
+   },
+   {             
+            "name":"Sacrificial Greatsword",
+            "img":"Sacrificial_Greatsword.png"    
+   },
+   {             
+            "name":"Snow-Tombed Starsilver",
+            "img":"Snow-Tombed_Starsilver.png"    
+   },
+   {             
+            "name":"Katsuragikiri Nagamasa",
+            "img":"Katsuragikiri_Nagamasa.png"    
+   },
+   {             
+            "name":"Luxurious Sea-Lord",
+            "img":"Luxurious_Sea-Lord.png"    
+   },
+   {             
+            "name":"Akuoumaru",
+            "img":"Akuoumaru.png"    
+   },
+   {             
+            "name":"Skyward Pride",
+            "img":"Skyward_Pride.png"
+   },
+   {             
+            "name":"Wolf's Gravestone",
+            "img":"Wolf's_Gravestone.png"    
+   },
+   {             
+            "name":"The Unforged",
+            "img":"The_Unforged.png"    
+   },
+   {             
+            "name":"Song of Broken Pines",
+            "img":"Song_of_Broken_Pines.png"    
+   },
+   {             
+            "name":"Black Tassel",
+            "img":"Black_Tassel.png"    
+   },
+   {             
+            "name":"Halberd",
+            "img":"Halberd.png"    
+   },
+   {             
+            "name":"White Tassel",
+            "img":"White_Tassel.png"    
+   },
+   {             
+            "name":"Blackcliff Pole",
+            "img":"Blackcliff_Pole.png"    
+   },
+   {             
+            "name":"Crescent Pike",
+            "img":"Crescent_Pike.png"    
+   },
+   {             
+            "name":"Dragon's Bane",
+            "img":"Dragon's_Bane.png"    
+   },
+   {             
+            "name":"Lithic Spear",
+            "img":"Lithic_Spear.png"    
+   },
+   {             
+            "name":"Prototype Starglitter",
+            "img":"Prototype_Starglitter.png"    
+   },
     ]
 }
