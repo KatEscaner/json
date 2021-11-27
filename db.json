@@ -520,7 +520,7 @@
             },
             {
             "nombre":"Xinyan",
-            "tier":"",
+            "tier":"B",
             "lore":"Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
             "title":"Physical DPS Build",
             "subtitle":"Unlike Diluc who focuses on Pyro DPS, Xinyan excels when built around physical damage similar to Razor. Switch the circlet to CRIT DMG if you unlock constellation level 2.",
@@ -534,7 +534,7 @@
             },
             {
             "nombre":"Yanfei",
-            "tier":"B",
+            "tier":"A",
             "lore":"A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.",
             "title":"Pyro DPS Build",
             "subtitle":"Yanfei is essentially a 4-star Klee who applies Pyro very fast but relies heavily on Crit Rate.",
