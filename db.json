@@ -1015,6 +1015,10 @@
    {             
             "name":"Memory of Dust",
             "img":"Memory_of_Dust.png"    
+   },
+   {             
+            "name":"Everlasting Moonglow",
+            "img":"Everlasting_Moonglow.png"    
    }
     ],
     "artefacts":[
